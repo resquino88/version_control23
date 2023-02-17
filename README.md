@@ -1,7 +1,7 @@
 # Version Control Lab (version_control23) <br>
 ## Version Control Group 16 (Issac Samuel, Jack Cetani, Ryan Esquino)
 
-> Write a description of your program and what it does, and list your group's members
+### NOTE: Check pull requests for contributors for this assignment!!!
 
 #### **_Description_** <br>
 A program to remove a letter from an input name.
