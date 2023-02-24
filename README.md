@@ -15,7 +15,9 @@ Prerequisites: Jupyter Lab (https://jupyterhub.sci.pitt.edu/hub/login)
 
 1. Navigate to your home directory in Jupyter Lab and open a new terminal.
 2. Type the following command into the terminal: 
-``` git clone https://github.com/resquino88/version_control23.git ```
+``` 
+git clone https://github.com/resquino88/version_control23.git 
+```
 3. To ensure the repository was downloaded, refresh the page and see if the new folder is there.
 
 ### Executing program
